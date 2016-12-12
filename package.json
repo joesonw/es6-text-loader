@@ -3,9 +3,6 @@
   "version": "1.0.1",
   "description": "es6 style text loader",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/joesonw/es6-text-loader.git"
