@@ -3,6 +3,9 @@
   "version": "1.0.2",
   "description": "es6 style text loader",
   "main": "index.js",
+  "scripts": {
+    "test": "
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/joesonw/es6-text-loader.git"
