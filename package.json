@@ -1,6 +1,6 @@
 {
   "name": "es6-text-loader",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "es6 style text loader",
   "main": "index.js",
   "scripts": {
